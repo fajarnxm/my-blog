@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Contact
 permalink: /contact/
 ---
   * Email : fajarpriyatna.id@gmail.com
